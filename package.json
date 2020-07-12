@@ -1,0 +1,24 @@
+{
+  "name": "jquery.com",
+  "version": "1.0.0",
+  "description": "jquery practice code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anilsaini907/JqueryPracticeCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anilsaini907/JqueryPracticeCode/issues"
+  },
+  "homepage": "https://github.com/Anilsaini907/JqueryPracticeCode#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquery-migrate": "^1.4.1"
+  }
+}
